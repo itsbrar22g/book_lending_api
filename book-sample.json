@@ -1,0 +1,19 @@
+{
+  "title":"welcome",
+  "author":"jems",
+    "genre":"mystery",
+      "borrowed":{
+        "staus":false,
+        "dueDate":"12-14-2001"
+       },
+        "publication":{
+          "publishedDate":"21-07-1993",
+            "publisher":"mark",
+              "other":{}
+        }, 
+          "availability":{"reserved":false,
+                           "borrowed":"no",
+                           "copies":{"copi":"adiot"},
+                             "other":{"other":"detail"} 
+          }
+} 
